@@ -11,5 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mariodss/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
--
-<img align="left" alt="Mario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](www.linkedin.com/in/mario-soto-16919b268)
+<a href="https://www.linkedin.com/in/mario-soto-16919b268" target="_blank" rel="noopener noreferrer" style="text-decoration: underline; color: #0a66c2;">
+  <img align="left" alt="Mario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  LinkedIn
+</a>
