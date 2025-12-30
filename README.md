@@ -17,8 +17,8 @@
 - [The Global Conservatory Website (Shopify)](https://github.com/mariodss/TheGlobalConservatory-Website-Project)
 - [Elms Retirement Center Website (Wordpress)](https://github.com/mariodss/ElmsRetirementCenter-Website)
 - [Softwall Hall of Fame Website (Wordpress)](https://github.com/mariodss/Softball-HallofFame-Website)
-- [Personal Portfolio-Front-End Website/React JS](https://mariodss.github.io/portfolio2024/)
-- [Library Management Library Website- Backend Based using the Django Framework](https://github.com/mariodss/WebAppLibrary)
+- [Personal Portfolio-Frontend Website/React JS](https://mariodss.github.io/portfolio2024/)
+- [Library Management Library Website - Backend-focused web application built with Django](https://github.com/mariodss/WebAppLibrary)
 
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mario-soto-16919b268" target="_blank" rel="noopener noreferrer" style="text-decoration: underline; color: #0a66c2;">
