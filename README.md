@@ -10,6 +10,14 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mariodss/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mariodss/azure-network-protocols)
 
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- [Ark-Houx Construction Services Website](https://github.com/mariodss/Construction-Services-Website)
+- [The Musicians Club Website](https://github.com/mariodss/MusiciansClub-Website)
+- [The Global Conservatory Website](https://github.com/mariodss/TheGlobalConservatory-Website-Project)
+- [Elms Retirement Center Website](https://github.com/mariodss/ElmsRetirementCenter-Website)
+- [Softwall Hall of Fame Website](https://github.com/mariodss/Softball-HallofFame-Website)
+
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mario-soto-16919b268" target="_blank" rel="noopener noreferrer" style="text-decoration: underline; color: #0a66c2;">
   <img align="left" alt="Mario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
